@@ -1,0 +1,1755 @@
+{
+ "kind": "admin#directory#users",
+ "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/HshJYEjc0eXJ5SvBtbdQz84gNKs\"",
+ "users": [
+  {
+   "kind": "admin#directory#user",
+   "id": "117886895218431918691",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/rM5c3cAvmTWxnRMyHTTdYfp1W1A\"",
+   "primaryEmail": "accounts.payable@mycase.com",
+   "name": {
+    "givenName": "Accounts",
+    "familyName": "Payable",
+    "fullName": "Accounts Payable"
+   },
+   "emails": [
+    {
+     "address": "accounts.payable@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "102458318952195787718",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/pklhSBfy83LxVo2qEfy86hawOUk\"",
+   "primaryEmail": "alex.boster@mycase.com",
+   "name": {
+    "givenName": "Alex",
+    "familyName": "Boster",
+    "fullName": "Alex Boster"
+   },
+   "emails": [
+    {
+     "address": "alex.boster@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "113818064312872828739",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/FccTEt71NQ9JaS-6v24of2rUqYE\"",
+   "primaryEmail": "alex.legaspi@mycase.com",
+   "name": {
+    "givenName": "Alex",
+    "familyName": "Legaspi",
+    "fullName": "Alex Legaspi"
+   },
+   "emails": [
+    {
+     "address": "alex.legaspi@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "118115313414897020613",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/vGGSReWa807_47nqzrloY3h5OLk\"",
+   "primaryEmail": "alifya.kitabi@mycase.com",
+   "name": {
+    "givenName": "Alifya ",
+    "familyName": "Kitabi",
+    "fullName": "Alifya Kitabi"
+   },
+   "emails": [
+    {
+     "address": "alifya.kitabi@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "108150702673110400951",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/nq1tzRgRXVGBwksaNoaVxlaqbtM\"",
+   "primaryEmail": "andy.burr@mycase.com",
+   "name": {
+    "givenName": "Andy",
+    "familyName": "Burr",
+    "fullName": "Andy Burr"
+   },
+   "emails": [
+    {
+     "address": "andy.burr@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "104642327765823042712",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/YCdj-NGyWNHSiNiLP37rNxKhNsA\"",
+   "primaryEmail": "anna.slyutova@mycase.com",
+   "name": {
+    "givenName": "Anna ",
+    "familyName": "Slyutova",
+    "fullName": "Anna Slyutova"
+   },
+   "emails": [
+    {
+     "address": "anna.slyutova@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCJjpwqackLe2QCILdmNhcmRfcGhvdG8qKDRlOTZiNTJjMzVmNTg1NDU3Y2M0N2YyYWZlYjM5YzFkYTA5ZjhjMzMwAVLSGsB2y1J45V0fK0lgiow0tjG9",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/kCtaPiihwOwY1w_cZs443KW0DQs\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "114057168003120637240",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/B1GAIhDY9h2o1oXnPAYS3T8eFwI\"",
+   "primaryEmail": "anthony.agresta@mycase.com",
+   "name": {
+    "givenName": "Anthony",
+    "familyName": "Agresta",
+    "fullName": "Anthony Agresta"
+   },
+   "emails": [
+    {
+     "address": "anthony.agresta@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECLjK-O-h-sWKwwEiC3ZjYXJkX3Bob3RvKig0MmY2Mzk5MjRkZGE4YTlhMTVlYjNjYjU5MDlkMGJiNmM0YWY1MWI3MAHi7aFkI0wR8Up7CdOXyBWIl9-Q1w",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/U6bjn-zSyHnJ9QqBv4kMOE4UhGw\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "113586475918352698680",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/3WiKS3bHIxRt0qk3Y5mXMl049qw\"",
+   "primaryEmail": "apps@mycase.com",
+   "name": {
+    "givenName": "MyCase",
+    "familyName": "Apps",
+    "fullName": "MyCase Apps"
+   },
+   "emails": [
+    {
+     "address": "apps@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "113620406073664607300",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/WL_HWBd8IjgBD3UAKMtcy7Ef1TI\"",
+   "primaryEmail": "becky.smith@mycase.com",
+   "name": {
+    "givenName": "Becky",
+    "familyName": "Smith",
+    "fullName": "Becky Smith"
+   },
+   "emails": [
+    {
+     "address": "becky.smith@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "102144652040838552064",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/5wa0ZGz555c8ZOPIxEjBz02Cvbw\"",
+   "primaryEmail": "blythe.alldredge@mycase.com",
+   "name": {
+    "givenName": "Blythe",
+    "familyName": "Alldredge",
+    "fullName": "Blythe Alldredge"
+   },
+   "emails": [
+    {
+     "address": "blythe.alldredge@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCIC0_qextdXhHSILdmNhcmRfcGhvdG8qKDgwZjQ4MmY1MGY4ZDJjNjM2ZTRjZGQ1MTc2MTAxODhlYjk1MGYzNzIwAc9Ow-pE1xvjwOhzx9jG7OesbFnW",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/8-Dd24b6BC6g0Z4euihrOm0XF4M\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "104980282632284577993",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/epKjtJtHNXl2KXKzJaeQ2UMkWQk\"",
+   "primaryEmail": "brittany.jordan@mycase.com",
+   "name": {
+    "givenName": "Brittany",
+    "familyName": "Jordan",
+    "fullName": "Brittany Jordan"
+   },
+   "emails": [
+    {
+     "address": "brittany.jordan@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCMnB-tKtleGORSILdmNhcmRfcGhvdG8qKDg1YTUxY2UyMTgzMjU0YjcwMDhhYjUyOTQ1NDg4ZDRjNjY0ZTIyOTcwAYiFuSsIZs6C7nIHWmQLx6k0jLA4",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/uwXj70QUZVcrfWK-ZjsE7sVTQSA\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "102678593294737776733",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/E0iAh-d3oazzzJISyEnXoiSveQs\"",
+   "primaryEmail": "camille.janin@mycase.com",
+   "name": {
+    "givenName": "Camille ",
+    "familyName": "Janin",
+    "fullName": "Camille Janin"
+   },
+   "emails": [
+    {
+     "address": "camille.janin@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCN3A2rSOzZGWJSILdmNhcmRfcGhvdG8qKDVmNjJhNzcwYTg2NzRjZWRkMDVmYThmYzI0NWY1Zjc2MjAwNTY2YTQwAXkt_FsEzWrJ2ezZ2yH4bb3Pn5IG",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/HJGp1pD7pjWq4n-2ePz9fUfprUo\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "118421643012220681596",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/0h35UiO7gMvTscUHo2a7_a4qfME\"",
+   "primaryEmail": "casey.lockwood@mycase.com",
+   "name": {
+    "givenName": "Casey",
+    "familyName": "Lockwood",
+    "fullName": "Casey Lockwood"
+   },
+   "emails": [
+    {
+     "address": "casey.lockwood@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECPz64ZP71rTT_wEiC3ZjYXJkX3Bob3RvKihjZDMyNzg1NjNlYTM5ODE4Y2M3MTA5ODA1YWI1ODk3MGQzOGY5MWE2MAFPou1ULcGFPy_0s5IGp8v4wQzTNg",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/k6Pm5vd7coXoh8re7Ie8bOtvg80\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "114772442837844409697",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/O1iabP5IYMmBDkfZ6yjEJ1CCiMc\"",
+   "primaryEmail": "cat.allday@mycase.com",
+   "name": {
+    "givenName": "Cat",
+    "familyName": "Allday",
+    "fullName": "Cat Allday"
+   },
+   "emails": [
+    {
+     "address": "cat.allday@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECOH66rPkz5CBzQEiC3ZjYXJkX3Bob3RvKihhYTNkMzQ3MjM3MDRhMWZlMmIxZGM4YjVlMTkxYzgyMDdjMWNmOGU4MAFenCZOs_u1MOFNttiNU0r37Ai1kw",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/9mHTSNPukkL2_X1damcsH7S825c\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "118363326910409873109",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/ydGIHWoONbezMl-ciHqonrjgo_8\"",
+   "primaryEmail": "cathleen.swallow@mycase.com",
+   "name": {
+    "givenName": "Cathleen",
+    "familyName": "Swallow",
+    "fullName": "Cathleen Swallow"
+   },
+   "emails": [
+    {
+     "address": "cathleen.swallow@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "113601817879220754733",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/7MGBR80DiIj7N3AbWljk-XJLK4Q\"",
+   "primaryEmail": "chad.sands@mycase.com",
+   "name": {
+    "givenName": "Chad",
+    "familyName": "Sands",
+    "fullName": "Chad Sands"
+   },
+   "emails": [
+    {
+     "address": "chad.sands@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "114133519816557533669",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/MKgt5AIeQclYOp30ai0uQMRlTwQ\"",
+   "primaryEmail": "chad.shaffer@mycase.com",
+   "name": {
+    "givenName": "Chad",
+    "familyName": "Shaffer",
+    "fullName": "Chad Shaffer"
+   },
+   "emails": [
+    {
+     "address": "chad.shaffer@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECOWz7N6_rJaSxAEiC3ZjYXJkX3Bob3RvKihkY2JkNDhiZjk1OGE3MmZhNjE1NWRkYzNiMDMyMmM1NWZjZTEyNmEwMAEj_jRiVAAZmZ6zXg2j2mvUnKCUlQ",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/Ta8iuPM7k3U-KBnHSNth_zBiQmQ\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "107712227404684246183",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/4JbqSdrpxBbsKnvgDP0vcSBlWZo\"",
+   "primaryEmail": "chihhung.lin@mycase.com",
+   "name": {
+    "givenName": "Chihhung",
+    "familyName": "Lin",
+    "fullName": "Chihhung Lin"
+   },
+   "emails": [
+    {
+     "address": "chihhung.lin@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "116724611085566779185",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/4gqIrEY6SdH34JVv4C67j1s8Vmo\"",
+   "primaryEmail": "chris.bustos@mycase.com",
+   "name": {
+    "givenName": "Chris",
+    "familyName": "Bustos",
+    "fullName": "Chris Bustos"
+   },
+   "emails": [
+    {
+     "address": "chris.bustos@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECLG-ks6-pfCM6AEiC3ZjYXJkX3Bob3RvKigwNTBkYmZjMjUwYWU4OWQzNTVkNGQ0OGUyMDlkYTdlNDBjNDI0NzI5MAHAULwMeoYE-40LVuHKyNWi49DstQ",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/XOKgIsUZvOXQXKGwTsazIkAeHNc\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "107958118937265746400",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/xoFZ3ShnIsaqurri7yK4uvo_6is\"",
+   "primaryEmail": "chris.larose@mycase.com",
+   "name": {
+    "givenName": "Chris",
+    "familyName": "LaRose",
+    "fullName": "Chris LaRose"
+   },
+   "emails": [
+    {
+     "address": "chris.larose@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "108383047533669256002",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/wh9c4WtGD66Hl2-DfDRg9jmFnqo\"",
+   "primaryEmail": "christopher.vickers@mycase.com",
+   "name": {
+    "givenName": "Christopher",
+    "familyName": "Vickers",
+    "fullName": "Christopher Vickers"
+   },
+   "emails": [
+    {
+     "address": "christopher.vickers@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "111595939165051159725",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/JOUQ4wOPPUdlxg_89RkkopKqOPk\"",
+   "primaryEmail": "clayton.tyler@mycase.com",
+   "name": {
+    "givenName": "Clayton",
+    "familyName": "Tyler",
+    "fullName": "Clayton Tyler"
+   },
+   "emails": [
+    {
+     "address": "clayton.tyler@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "114864219331732844529",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/OyqABTRYe-J1Qvwu4H4zQRXZ2WQ\"",
+   "primaryEmail": "cody.nielsen@mycase.com",
+   "name": {
+    "givenName": "Cody ",
+    "familyName": "Nielsen",
+    "fullName": "Cody Nielsen"
+   },
+   "emails": [
+    {
+     "address": "cody.nielsen@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECPHfuNuml5SkzgEiC3ZjYXJkX3Bob3RvKihiZjU3MjU4NDJmYzRjYTkwNjAwZGUwMTRiZWYzY2JmMDQwNGI4ZGRlMAHzKzlWAhs7zh3uy3UkXw_ojAVihg",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/Fzq0b7blF_6zo_23_7W1QsSb9bE\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "111092258752496482319",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/BdGF4hnVMNmaE_13NYg1PydAMkc\"",
+   "primaryEmail": "contractor5@mycase.com",
+   "name": {
+    "givenName": "Patricia",
+    "familyName": "Avila",
+    "fullName": "Patricia Avila"
+   },
+   "emails": [
+    {
+     "address": "contractor5@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "103505723714090659588",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/SWV8ZPoz66G-1GwxHLBQR5R5d6Y\"",
+   "primaryEmail": "damon.valenzona@mycase.com",
+   "name": {
+    "givenName": "Damon",
+    "familyName": "Valenzona",
+    "fullName": "Damon Valenzona"
+   },
+   "emails": [
+    {
+     "address": "damon.valenzona@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABDCITepZjNpLXTMCILdmNhcmRfcGhvdG8qKDdiOWJkOWViOTA5YWJjNTg4YWY0NTc4N2JlNjEwNTA4MTI4OWFhODMwAZCrEteVpPuegPsQMzgRATBCwy8Q",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/Id7r1rygJ--pwcBdE1l8_vrdqrk\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "101380135263001529222",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/8JgYLVY4DEXRUko6JLIGGfWnlsg\"",
+   "primaryEmail": "dan.defenbaugh-ext@mycase.com",
+   "name": {
+    "givenName": "Dan",
+    "familyName": "Defenbaugh",
+    "fullName": "Dan Defenbaugh"
+   },
+   "emails": [
+    {
+     "address": "dan.defenbaugh-ext@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCIaXyenZts6TEyILdmNhcmRfcGhvdG8qKGViYjQwOTdkOTQ3MzI5NjdkNGUxNTEyNjMwYmI5ZDE2NGU2ZDY1N2YwAdu0RnHHveKY0olWqgb0BwzWelD5",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/Ll5Jkoq85Pks3BmefnpyiXX-2tk\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "104423885840997661441",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/7vcneuknBvRqAtB8A8NVRI2qy68\"",
+   "primaryEmail": "dean.park@mycase.com",
+   "name": {
+    "givenName": "Dean",
+    "familyName": "Park",
+    "fullName": "Dean Park"
+   },
+   "emails": [
+    {
+     "address": "dean.park@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "117439780759605893328",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/b3M8jqCQWsxeF4t6aGGJ6D-Lczo\"",
+   "primaryEmail": "devin.parrick@mycase.com",
+   "name": {
+    "givenName": "Devin",
+    "familyName": "Parrick",
+    "fullName": "Devin Parrick"
+   },
+   "emails": [
+    {
+     "address": "devin.parrick@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "106993362598538953489",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/ihZI0rkK23gbfMH8sDIj9L4Ayow\"",
+   "primaryEmail": "drew.hall@mycase.com",
+   "name": {
+    "givenName": "Drew",
+    "familyName": "Hall",
+    "fullName": "Drew Hall"
+   },
+   "emails": [
+    {
+     "address": "drew.hall@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "118019547595770766873",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/DoLwqM5R7fyPQ5CNe8yVIk3gMSE\"",
+   "primaryEmail": "elizabeth.arellano@mycase.com",
+   "name": {
+    "givenName": "Elizabeth",
+    "familyName": "Arellano",
+    "fullName": "Elizabeth Arellano"
+   },
+   "emails": [
+    {
+     "address": "elizabeth.arellano@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECJnMpJmR4pKJ-gEiC3ZjYXJkX3Bob3RvKig0MGMxNjg1YWE4Y2M2NmVkMGNiMGViNGY3Zjk3YTI4NDkyNGVlMmQ5MAFqeyApMJzfUUTbPd6sxYY1peQ2fQ",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/l2nMPyDpWRXdUhYf5SGL_WmTQWI\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "109249769953785168411",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/phOWsZp_JTuWvbVDJuJIyEcuSIg\"",
+   "primaryEmail": "eric.johnson@mycase.com",
+   "name": {
+    "givenName": "Eric",
+    "familyName": "Johnson",
+    "fullName": "Eric Johnson"
+   },
+   "emails": [
+    {
+     "address": "eric.johnson@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "102307247810464814018",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/1UfSyx1iTdeX8YteN4NY9Q2YTSI\"",
+   "primaryEmail": "felicia.tripa@mycase.com",
+   "name": {
+    "givenName": "Felicia",
+    "familyName": "Tripa",
+    "fullName": "Felicia Tripa"
+   },
+   "emails": [
+    {
+     "address": "felicia.tripa@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABDCMKntryMtb-CICILdmNhcmRfcGhvdG8qKGQzOWE2ZDM3ZDU0ZDc4NzBlNGE4YzA1YjA2NTY5OTdmMGYyNjJhMWEwAQbyef8HMVTP_XaR0V46rfhZaM1Y",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/fcobpzxlVQ_IOM4WA07DORkZS_Y\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "116667804549738222146",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/Aa8cP4qIGSV18kCByI9sbL-QjnU\"",
+   "primaryEmail": "fernando.ubeda@mycase.com",
+   "name": {
+    "givenName": "Fernando",
+    "familyName": "Ubeda",
+    "fullName": "Fernando Ubeda"
+   },
+   "emails": [
+    {
+     "address": "fernando.ubeda@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "113441927555219255100",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/6gvLq8UqDrUYuyGikC6EhqA7rBk\"",
+   "primaryEmail": "gia.ippolito@mycase.com",
+   "name": {
+    "givenName": "Gia ",
+    "familyName": "Ippolito",
+    "fullName": "Gia Ippolito"
+   },
+   "emails": [
+    {
+     "address": "gia.ippolito@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "114169900157573003285",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/YkSluSjMT9yUY4iHN3QDPMmKnr8\"",
+   "primaryEmail": "greg.sparks@mycase.com",
+   "name": {
+    "givenName": "Greg",
+    "familyName": "Sparks",
+    "fullName": "Greg Sparks"
+   },
+   "emails": [
+    {
+     "address": "greg.sparks@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECJXwj5fjo-bSxAEiC3ZjYXJkX3Bob3RvKihlZDFmZTM3YzZjOWFlYjgwMTlmOGE2NTBlZWMyOWEyNTZkMmRiY2ZiMAHi6ETnsphAD5cIvBrarbPOitBzyA",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/NZADJcu1OQqEP6oTDjmg_iDNHvU\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "112632123161966529770",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/C-biGoBkzRt7JXBnCMzaw8qx1_0\"",
+   "primaryEmail": "jake.kozonis@mycase.com",
+   "name": {
+    "givenName": "Jake",
+    "familyName": "Kozonis",
+    "fullName": "Jake Kozonis"
+   },
+   "emails": [
+    {
+     "address": "jake.kozonis@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECOqZ_5_oopSnrwEiC3ZjYXJkX3Bob3RvKihhY2U3MTcyZTNiYjk2ODY0ZWZmOWI4NTY3MDU3YzNlNjUwNzkzMzA1MAHw6UokbqpmElv4RZ6Duz5tYOWrbQ",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/eStOcC4OMQRaQZJf-n7mj6cztiU\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "102213357513998550201",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/zvdZ4KjYvz3GBMXEEhbirwjma2o\"",
+   "primaryEmail": "jason.jia@mycase.com",
+   "name": {
+    "givenName": "Jason",
+    "familyName": "Jia",
+    "fullName": "Jason Jia"
+   },
+   "emails": [
+    {
+     "address": "jason.jia@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCLmJzfbpndvbHiILdmNhcmRfcGhvdG8qKDUxMTQyZjZlMmVmOTRiNDA5YjhiNmIwZGVhNmU2YmEwOTcxMGRkZDkwAbzw1tJeppnCAnfojSnskcD1sEoN",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/8tnzlnr7hKxYfFr3bM21E-EnNcE\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "105521956267591186562",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/S8hbAAI_Thr-SiEFjjGRJNK-U54\"",
+   "primaryEmail": "jesse.wells@mycase.com",
+   "name": {
+    "givenName": "Jesse",
+    "familyName": "Wells",
+    "fullName": "Jesse Wells"
+   },
+   "emails": [
+    {
+     "address": "jesse.wells@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "106597024080677194029",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/f9U_0lP5erGOoNzK5DldkVNt-6Q\"",
+   "primaryEmail": "joe.wilhelm@mycase.com",
+   "name": {
+    "givenName": "Joe",
+    "familyName": "Wilhelm",
+    "fullName": "Joe Wilhelm"
+   },
+   "emails": [
+    {
+     "address": "joe.wilhelm@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCK2S2buuztXGWyILdmNhcmRfcGhvdG8qKDBlYzk1NDg4NjdjNjhmZGRmNGJkM2Q5MGEwMWZhYmY4NThlYmRhMjIwAcMLWmpj0jwA4jxsj8LEXsXbCRy-",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/7hFUMo756EwWr9FACUZ_eKdfLPc\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "113862634677343876614",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/oY5_7lY53nMct8AlUThfBoRYd1U\"",
+   "primaryEmail": "jonny.ramos@mycase.com",
+   "name": {
+    "givenName": "Jonny",
+    "familyName": "Ramos",
+    "fullName": "Jonny Ramos"
+   },
+   "emails": [
+    {
+     "address": "jonny.ramos@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "118121454764971564057",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/xcoCLSVc1aFQWV7bPNBN8vfwOQg\"",
+   "primaryEmail": "juan.orellana@mycase.com",
+   "name": {
+    "givenName": "Juan",
+    "familyName": "Orellana",
+    "fullName": "Juan Orellana"
+   },
+   "emails": [
+    {
+     "address": "juan.orellana@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "113028091367343960365",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/tD_eziaHWo7qDkDfHl0IhGCsiiY\"",
+   "primaryEmail": "julie.scotland@mycase.com",
+   "name": {
+    "givenName": "Julie",
+    "familyName": "Scotland",
+    "fullName": "Julie Scotland"
+   },
+   "emails": [
+    {
+     "address": "julie.scotland@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABECK3i-p6qgsXmtAEiC3ZjYXJkX3Bob3RvKig3NjcwMTA1YTRhYjA2ZGIzNGE2ZThlY2U0NzY1NzkzMmZiYjJjNGNhMAHr47cBBYIhK8anB8C49TR2emLqxQ",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/dUXStQ7B2jUyv0SBpYWj7SQMCL4\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "111001263074744072830",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/J_9Xrl_CJ2KwxThIa00bThz1JPM\"",
+   "primaryEmail": "kai.guo@mycase.com",
+   "name": {
+    "givenName": "Kai",
+    "familyName": "Guo",
+    "fullName": "Kai Guo"
+   },
+   "emails": [
+    {
+     "address": "kai.guo@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "115132332981546216436",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/BUtlY6bFYSg9ZkD7cH7qiUyLXzw\"",
+   "primaryEmail": "karen.gray@mycase.com",
+   "name": {
+    "givenName": "Karen",
+    "familyName": "Gray",
+    "fullName": "Karen Gray"
+   },
+   "emails": [
+    {
+     "address": "karen.gray@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECPTX9Z_BlbaA0gEiC3ZjYXJkX3Bob3RvKigwOWVjNDY1NTI5OTZkZDZlMTg5ZDcxNjYwMTg4ZTQxZGNlMTZiN2JlMAFJSjlzRWHZd0hGDePuw00f3IyDow",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/SWHp_XyUBk12tbujPuFtHuTM6e4\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "107199533845378031208",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/wNUsh3QoikkYsfEsZ5vYd58-8WE\"",
+   "primaryEmail": "katie.frick@mycase.com",
+   "name": {
+    "givenName": "Katie",
+    "familyName": "Frick",
+    "fullName": "Katie Frick"
+   },
+   "emails": [
+    {
+     "address": "katie.frick@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCOi8o9GzvPj0YyILdmNhcmRfcGhvdG8qKDc2MTk4YjZhYmNiZmEzZmY0ZmJmMWY0ZDMyNzU0NTUwYzk3ZWQ2NzAwAZolH1PFvH6blRIgtCQRnUZQ6kLA",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/RFWu0jrEW1iZGvRLj_J3s0sKPXI\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "104241402655190739754",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/AHrM2rTRsXMM1Zd3wQVNUfGofSc\"",
+   "primaryEmail": "kayla.grossett@mycase.com",
+   "name": {
+    "givenName": "Kayla",
+    "familyName": "Grossett",
+    "fullName": "Kayla Grossett"
+   },
+   "emails": [
+    {
+     "address": "kayla.grossett@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCKrWq6Djp5_uOiILdmNhcmRfcGhvdG8qKGFkNDY2OGJlM2ZjOTE5Yzc2NmFkMWU5OTQzOTI5OTQ2OWEwZGFlODIwAXHQhizE1OOjF9E-pI9H4Ww6Cbco",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/qhEXUxZb8Qs0ep6z0_yBp0G45TQ\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "108592169123223337672",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/j_bL8QY6ticREAjtmqlFDA_tEk0\"",
+   "primaryEmail": "ke.zhang@mycase.com",
+   "name": {
+    "givenName": "Ke",
+    "familyName": "Zhang",
+    "fullName": "Ke Zhang"
+   },
+   "emails": [
+    {
+     "address": "ke.zhang@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "102597557409619352502",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/lW_6VkoVb7KHjYH_fwFAvrwgMlg\"",
+   "primaryEmail": "kim.coalson@mycase.com",
+   "name": {
+    "givenName": "Kim",
+    "familyName": "Coalson",
+    "fullName": "Kim Coalson"
+   },
+   "emails": [
+    {
+     "address": "kim.coalson@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/public/AIbEiAIAAABDCLa3ruC5lpiGJCILdmNhcmRfcGhvdG8qKGQ4ZDc3ZmVmNjc0YTExNTY3NWVmYTI3NzhiNzMxMmY1YTVmNmRjNTEwAUIAXRrItZPxAXIioqzUo0jE5VF0",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/dwIyj3fzIzBRkk5LmfWttUXFYqY\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "110783335311508520910",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/TeebK2S_XQSjxcrtUTw1UGUaL5E\"",
+   "primaryEmail": "kristin.gans@mycase.com",
+   "name": {
+    "givenName": "Kristin",
+    "familyName": "Gans",
+    "fullName": "Kristin Gans"
+   },
+   "emails": [
+    {
+     "address": "kristin.gans@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "110445308377553441349",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/M2z8x4uhTrDCBwiO-H8nnezTDqs\"",
+   "primaryEmail": "lance.klopp@mycase.com",
+   "name": {
+    "givenName": "Lance",
+    "familyName": "Klopp",
+    "fullName": "Lance Klopp"
+   },
+   "emails": [
+    {
+     "address": "lance.klopp@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "110115830494858197243",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/TtRMGrnKHnIwI0NfF4J-sbIhdNg\"",
+   "primaryEmail": "leslie.skelly-ext@mycase.com",
+   "name": {
+    "givenName": "Leslie",
+    "familyName": "Skelly",
+    "fullName": "Leslie Skelly"
+   },
+   "emails": [
+    {
+     "address": "leslie.skelly-ext@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECPvx2LDTx6mxjAEiC3ZjYXJkX3Bob3RvKig4MGUwN2YwMmNjMzhlMDc0Zjk0YzNlZmIzMmQ3NWRkNmM2NWE0NTBhMAGy8jUaBri74hDu8sB_43giSgBSNQ",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/_Rv-PugOvI6yGKpSLELIg7_w52g\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "102256873744553159630",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/UiIdvHAK_eE7BtZKOomnWxcfwRs\"",
+   "primaryEmail": "lincong.li@mycase.com",
+   "name": {
+    "givenName": "Lincong",
+    "familyName": "Li",
+    "fullName": "Lincong Li"
+   },
+   "emails": [
+    {
+     "address": "lincong.li@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "100638405396645727400",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/wE4gx0NSWTP7wVt-ONl0SJ0aGvA\"",
+   "primaryEmail": "lindsey.ito@mycase.com",
+   "name": {
+    "givenName": "Lindsey",
+    "familyName": "Ito",
+    "fullName": "Lindsey Ito"
+   },
+   "emails": [
+    {
+     "address": "lindsey.ito@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "103191316815425715157",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/uxuxGYNc4uB21HzxHDraufcKQbM\"",
+   "primaryEmail": "linjie.peng@mycase.com",
+   "name": {
+    "givenName": "Linjie",
+    "familyName": "Peng",
+    "fullName": "Linjie Peng"
+   },
+   "emails": [
+    {
+     "address": "linjie.peng@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "115966485301583366120",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/HUn2tpwmvFjqzgV9DaFuytuIZps\"",
+   "primaryEmail": "lu.jin@mycase.com",
+   "name": {
+    "givenName": "Lu",
+    "familyName": "Jin",
+    "fullName": "Lu Jin"
+   },
+   "emails": [
+    {
+     "address": "lu.jin@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECOiP_cKauZbK3QEiC3ZjYXJkX3Bob3RvKigxNWYzOGZkNDMzNTcyYjM3MjFhMWJkNmU4NDBmNDQwN2E2NGYzMjMxMAHccw6f0dIsyGKothwX61HrMO4EOg",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/vraEu-XgrZ9ZG3oUUWpiDTmA-VU\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "115194952987128039762",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/K78geosLiTEJoqiv4XS98I3t0nE\"",
+   "primaryEmail": "marco.herrera@mycase.com",
+   "name": {
+    "givenName": "Marco ",
+    "familyName": "Herrera",
+    "fullName": "Marco Herrera"
+   },
+   "emails": [
+    {
+     "address": "marco.herrera@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "113402245669177592379",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/YmWUaLfEIUbIcid2kjkSErLyXVg\"",
+   "primaryEmail": "margaret.drew@mycase.com",
+   "name": {
+    "givenName": "Margaret",
+    "familyName": "Drew",
+    "fullName": "Margaret Drew"
+   },
+   "emails": [
+    {
+     "address": "margaret.drew@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECLuU5P7Y7ZX_uQEiC3ZjYXJkX3Bob3RvKigwNTYxOWEzZDc0NjI2MzhiYmIyMDQ3NmM4OTg0OGE1ZGRkYzdhZWIyMAGNsE1pUlfGNsC4a6xXCi_hZqtHOQ",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/aTj7WtTEELEVe462B1j8b4f3qBs\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "113948006786165697015",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/z4TbOCWBsc07W2llfMvvMXbHNVE\"",
+   "primaryEmail": "marielle.levy@mycase.com",
+   "name": {
+    "givenName": "Marielle",
+    "familyName": "Levy",
+    "fullName": "Marielle Levy"
+   },
+   "emails": [
+    {
+     "address": "marielle.levy@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "104651809328513109016",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/SMkRbim3VbkTu9FJIT_Y5gKwt04\"",
+   "primaryEmail": "mark.huang@mycase.com",
+   "name": {
+    "givenName": "Mark",
+    "familyName": "Huang",
+    "fullName": "Mark Huang"
+   },
+   "emails": [
+    {
+     "address": "mark.huang@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "107208648542207141593",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/ZKKVT2upV3kW3Z59d5l_yytoz-c\"",
+   "primaryEmail": "mark.prictor@mycase.com",
+   "name": {
+    "givenName": "Mark",
+    "familyName": "Prictor",
+    "fullName": "Mark Prictor"
+   },
+   "emails": [
+    {
+     "address": "mark.prictor@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCNnNk6f_9JCFZCILdmNhcmRfcGhvdG8qKDIwN2Q3OGNkM2IyZTZjNzkxZTc4NzYxM2IxZWM3MjMwZmY4NzBhMzUwAWY2RwcLoHBuVnQw-fgq39HgJCoJ",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/UHgnn8gd8ZehMNIoBCIQDm2C2cI\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "102897074504807536766",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/ZDmEpFfEZeAJoVoRbEqFOBTbR5I\"",
+   "primaryEmail": "matt.abedi@mycase.com",
+   "name": {
+    "givenName": "Matt",
+    "familyName": "Abedi",
+    "fullName": "Matt Abedi"
+   },
+   "emails": [
+    {
+     "address": "matt.abedi@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "106262344621965801125",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/NI7ibdmrfRS2_TW7YmaeVT8hWcU\"",
+   "primaryEmail": "matt.lively@mycase.com",
+   "name": {
+    "givenName": "Matt",
+    "familyName": "Lively",
+    "fullName": "Matt Lively"
+   },
+   "emails": [
+    {
+     "address": "matt.lively@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "111417970369727323998",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/uKB4SjlpF03xH4OTybnydNem9Fg\"",
+   "primaryEmail": "michael.haynes@mycase.com",
+   "name": {
+    "givenName": "Michael ",
+    "familyName": "Haynes",
+    "fullName": "Michael Haynes"
+   },
+   "emails": [
+    {
+     "address": "michael.haynes@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "107431980790670997104",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/3YL0kzLybJJ6AujQxGWHTLO0LPg\"",
+   "primaryEmail": "morris.neer@mycase.com",
+   "name": {
+    "givenName": "Morris",
+    "familyName": "Neer",
+    "fullName": "Morris Neer"
+   },
+   "emails": [
+    {
+     "address": "morris.neer@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "110529513301660644656",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/yLypLhubEdH3113FAlk7q4RLMBA\"",
+   "primaryEmail": "natalie.klein@mycase.com",
+   "name": {
+    "givenName": "Natalie",
+    "familyName": "Klein",
+    "fullName": "Natalie Klein"
+   },
+   "emails": [
+    {
+     "address": "natalie.klein@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECLDq7pn2kZaQkgEiC3ZjYXJkX3Bob3RvKihkOTcyOWQ4NjQ1YTdlZTNkMWYyMDRjZjgxYjg5MzJiNTRkOWM4N2EwMAHxJ9WrFU2mbRg1tOncly0zHDo-fA",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/Jxc6Gz1Zw0Mt-DsIqDmMD3-71WY\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "107031907106468795035",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/scO2hyJfJygQC2k-pgS5ZK0cV1Q\"",
+   "primaryEmail": "nexonia@mycase.com",
+   "name": {
+    "givenName": "Marketing",
+    "familyName": "Nexonia",
+    "fullName": "Marketing Nexonia"
+   },
+   "emails": [
+    {
+     "address": "nexonia@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "101847377624434569555",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/V-UPsCNP5HYZ5BgnZclxrzrUZ-s\"",
+   "primaryEmail": "nijaz.zulcic@mycase.com",
+   "name": {
+    "givenName": "Nijaz",
+    "familyName": "Zulcic",
+    "fullName": "Nijaz Zulcic"
+   },
+   "emails": [
+    {
+     "address": "nijaz.zulcic@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "115593720237892130926",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/8E2bPDpgvClYkqQSTB2K8UyBufo\"",
+   "primaryEmail": "niki@mycase.com",
+   "name": {
+    "givenName": "Niki",
+    "familyName": "Black",
+    "fullName": "Niki Black"
+   },
+   "emails": [
+    {
+     "address": "niki@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECO6whZP_vYG02AEiC3ZjYXJkX3Bob3RvKig0ZGQ1NDU0NTk1YTllM2I0YzIxYTllNDQ5N2NkNjcxZDFjNjM1YzJkMAFsZbVD1yykjTpiP_XvuiFUuTLZqw",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/vWmY7OkQIRQkDUnnd4EEQoWpQ1c\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "102131485120110688841",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/9dN2vuBvVS-SkUCfdqLBYQKkKt8\"",
+   "primaryEmail": "no-reply@mycase.com",
+   "name": {
+    "givenName": "no",
+    "familyName": "reply",
+    "fullName": "no reply"
+   },
+   "emails": [
+    {
+     "address": "no-reply@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "116748384343717949744",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/bVjP_eIMYMmUr_YrImjsgsZf6zo\"",
+   "primaryEmail": "ops.admin@mycase.com",
+   "name": {
+    "givenName": "Ops",
+    "familyName": "MyCase Admin",
+    "fullName": "Ops MyCase Admin"
+   },
+   "emails": [
+    {
+     "address": "ops.admin@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "100563968346243455638",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/0SUqREzw0IsFAus0My6WwUF4byM\"",
+   "primaryEmail": "patricia.avila-ext@mycase.com",
+   "name": {
+    "givenName": "Patricia ",
+    "familyName": "Avila",
+    "fullName": "Patricia Avila"
+   },
+   "emails": [
+    {
+     "address": "patricia.avila-ext@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "104905032099475230348",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/iqFArVrzdsVWF6aJkTkkl2Ivg5g\"",
+   "primaryEmail": "patricia.sidebotham@mycase.com",
+   "name": {
+    "givenName": "Trish",
+    "familyName": "Sidebotham",
+    "fullName": "Trish Sidebotham"
+   },
+   "emails": [
+    {
+     "address": "patricia.sidebotham@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCIyd8OjNlouJRCILdmNhcmRfcGhvdG8qKGYwNTZiN2VkZDQ4MTEyYTc0NGQyNDQ2Zjk3YjAxZTIyZjI3ZGM0ZDUwAclUUfK-Z-FzUETtFAGYR6cdsDEq",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/rh7DBPsi3WNuKcSdMbkq54JwCEk\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "105998851465542558348",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/nbWkFk4PlDAv23hnVlfnhg-VIBc\"",
+   "primaryEmail": "patrick.bourke@mycase.com",
+   "name": {
+    "givenName": "Patrick",
+    "familyName": "Bourke",
+    "fullName": "Patrick Bourke"
+   },
+   "emails": [
+    {
+     "address": "patrick.bourke@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "116607044033861775895",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/bGRyXRkZDgR4gcAcjcS52WcwMtY\"",
+   "primaryEmail": "patrick.gudmundson@mycase.com",
+   "name": {
+    "givenName": "Patrick",
+    "familyName": "Gudmundson",
+    "fullName": "Patrick Gudmundson"
+   },
+   "emails": [
+    {
+     "address": "patrick.gudmundson@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECJfk57z50YS85gEiC3ZjYXJkX3Bob3RvKihkMDM3M2M0OTAyYTJmMWViOGQyNmJlZTg5NGM1ZmRkMWQxZTc0ZTk0MAEsdk-H6rDG43nF2fyiqYEZrHrDAg",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/HfhKMK0vF0uXcR1GVH3HMJe859s\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "101166120689670102660",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/-Q0KbbkzrsuLkBkOdXMjHcZal3E\"",
+   "primaryEmail": "paul.pham@mycase.com",
+   "name": {
+    "givenName": "Paul",
+    "familyName": "Pham",
+    "fullName": "Paul Pham"
+   },
+   "emails": [
+    {
+     "address": "paul.pham@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "110625925209988457825",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/6e7frk_FF7m-c7YTcOtYlyAlEWI\"",
+   "primaryEmail": "paulus.schoutsen@mycase.com",
+   "name": {
+    "givenName": "Paulus",
+    "familyName": "Schoutsen",
+    "fullName": "Paulus Schoutsen"
+   },
+   "emails": [
+    {
+     "address": "paulus.schoutsen@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECOHK6_ng1be7kwEiC3ZjYXJkX3Bob3RvKig5NDNlYjhkMGI2ZGI2MGJkZWM4MTZiN2U2MzdiZmFlNmQwNzk5ZjUyMAFHKc7vQaLtKzMHrvYemvZrlK7rZg",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/CIYQYfhSCmO6vW27ji91ZkPRCIw\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "112998934960526481574",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/uTj4Zonbj0U8xUZswRPEX35zznE\"",
+   "primaryEmail": "phoebe.gao@mycase.com",
+   "name": {
+    "givenName": "Phoebe",
+    "familyName": "Gao",
+    "fullName": "Phoebe Gao"
+   },
+   "emails": [
+    {
+     "address": "phoebe.gao@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "114804541126451207712",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/ptb0rbf-L_AHYZ1Kuf1nowQb-mQ\"",
+   "primaryEmail": "quy.phan@mycase.com",
+   "name": {
+    "givenName": "Quy ",
+    "familyName": "Phan",
+    "fullName": "Quy Phan"
+   },
+   "emails": [
+    {
+     "address": "quy.phan@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "101419572069229287346",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/yDoTgBgbp0NpOw2x-uEV-Z-ORgQ\"",
+   "primaryEmail": "robert.maloney@mycase.com",
+   "name": {
+    "givenName": "Robert",
+    "familyName": "Maloney",
+    "fullName": "Robert Maloney"
+   },
+   "emails": [
+    {
+     "address": "robert.maloney@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCLKv6bvpqNXZEyILdmNhcmRfcGhvdG8qKDEyNzQ4YTRmZjYzZGJlZDZmMmRiNzY0ODcxZWQwMjlmZDllNTE2ZjYwAebykRqx2BYMCEVFqhjfEQAZBZ94",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/RpzklWGhKB6k85ww3zi891h9v6k\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "105150168362077338532",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/-dmbnF7VhLaOBd3eBUVkht1VQPg\"",
+   "primaryEmail": "roshin.bhangoo@mycase.com",
+   "name": {
+    "givenName": "Roshin",
+    "familyName": "Bhangoo",
+    "fullName": "Roshin Bhangoo"
+   },
+   "emails": [
+    {
+     "address": "roshin.bhangoo@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCKT3zNjq2sS8RyILdmNhcmRfcGhvdG8qKGUzZjc5OGQ2NTFlODQ4YjRjNTg0ZDdkMTc4ODA3YTU2OTg1MmU4OTAwAc2KLwUStz5k1VDqExky473fyOl4",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/vXlgg83TK-Rs_fUvaZVyKTgiiWs\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "107484587834481073083",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/wbUyT59vy4X18fQWGeKgThEeBas\"",
+   "primaryEmail": "ryne.chaloux@mycase.com",
+   "name": {
+    "givenName": "Ryne",
+    "familyName": "Chaloux",
+    "fullName": "Ryne Chaloux"
+   },
+   "emails": [
+    {
+     "address": "ryne.chaloux@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCLu30eOvn6bvZyILdmNhcmRfcGhvdG8qKDVmZDQ4NzViNjNiNTA3Y2Y5OTM4YjI0MzI2NzNlNTk5NDI2ZTVjMDAwAffFrORXspMYrgwXS7HS3MTXWCYU",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/SOKcEVPuPkuZt-83ANnar9g9BKQ\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "110869421851213604762",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/Qj-uMqnhdVasBELfEjdDQWeLiMA\"",
+   "primaryEmail": "salescalendar@mycase.com",
+   "name": {
+    "givenName": "MyCase Sales",
+    "familyName": "Calendar",
+    "fullName": "MyCase Sales Calendar"
+   },
+   "emails": [
+    {
+     "address": "salescalendar@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "116877662632247540202",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/xL7CNFjG_LEpZpdjaDDcve9IjQ0\"",
+   "primaryEmail": "scott.gordon@mycase.com",
+   "name": {
+    "givenName": "Scott ",
+    "familyName": "Gordon",
+    "fullName": "Scott Gordon"
+   },
+   "emails": [
+    {
+     "address": "scott.gordon@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "111161540266023812163",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/NaNfVXIt3YJNDlO3tDQDWAMoHks\"",
+   "primaryEmail": "stephanie.phelan@mycase.com",
+   "name": {
+    "givenName": "Stephanie",
+    "familyName": "Phelan",
+    "fullName": "Stephanie Phelan"
+   },
+   "emails": [
+    {
+     "address": "stephanie.phelan@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECMP4xfTEt_DymgEiC3ZjYXJkX3Bob3RvKig0MzMxOTMxNGYyYTVmMDlkZDkwZTgxNDdjNTZlNzUxMjA3ZTcxNmQ2MAGsWHG2Z2atVXVnlUX3Wvuhd_pf_w",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/AsgFRLsyKVXIXaxswcH4Wmfy7p4\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "101719843402296049345",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/JPX44WfA5eCRuMOg38whhWwwjHQ\"",
+   "primaryEmail": "steve.klebanoff@mycase.com",
+   "name": {
+    "givenName": "Steve",
+    "familyName": "Klebanoff",
+    "fullName": "Steve Klebanoff"
+   },
+   "emails": [
+    {
+     "address": "steve.klebanoff@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "108958599208458870979",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/h3Q_XMOwZr8CrgFAI3BeGQSsl64\"",
+   "primaryEmail": "support.old@mycase.com",
+   "name": {
+    "givenName": "MyCase",
+    "familyName": "Support.old",
+    "fullName": "MyCase Support.old"
+   },
+   "emails": [
+    {
+     "address": "support.old@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "100596374874957375040",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/qpaB9oI3cTP_RqyIJJDojYesXxc\"",
+   "primaryEmail": "test.user@mycase.com",
+   "name": {
+    "givenName": "Test",
+    "familyName": "User",
+    "fullName": "Test User"
+   },
+   "emails": [
+    {
+     "address": "test.user@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "104673010966309768236",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/poak74OIJ6imHCsGdTjrMErxi2M\"",
+   "primaryEmail": "thomas.gineo@mycase.com",
+   "name": {
+    "givenName": "Thomas",
+    "familyName": "Gineo",
+    "fullName": "Thomas Gineo"
+   },
+   "emails": [
+    {
+     "address": "thomas.gineo@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCKyYmLPx1vfsQCILdmNhcmRfcGhvdG8qKDMxNjBkMDU1YTcyNmU5NTdhMzdhZmI4MjZkYmU5NmI0MDcwYTJjNTkwATs3aGebHjevPVxzqrRMBqEpU8Fr",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/PTNVh3xLNgtRW6N2wzLSOpUrQ_E\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "100963373532006326234",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/xEGwlQpC3ZEKVwgB3TqzCPR93wM\"",
+   "primaryEmail": "tracy.stevens@mycase.com",
+   "name": {
+    "givenName": "Tracy",
+    "familyName": "Stevens",
+    "fullName": "Tracy Stevens"
+   },
+   "emails": [
+    {
+     "address": "tracy.stevens@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCNq_gMr446WvDSILdmNhcmRfcGhvdG8qKDRkMWY5ZjUzOTg1ODI0MDYxM2NiMDBhNzI3NjcwNDBlNDllZjkyZWUwAU9nYbD2R6MQQ06Pc6SUzzSp-qjR",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/kwalF9F5KwgfPA6xBoApYFl7md4\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "101457371391231439066",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/GdGiwkqiLecrBUB4e93v3xsLmsk\"",
+   "primaryEmail": "tressa.schultze@mycase.com",
+   "name": {
+    "givenName": "Tressa ",
+    "familyName": "Schultze",
+    "fullName": "Tressa Schultze"
+   },
+   "emails": [
+    {
+     "address": "tressa.schultze@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "113577707399471762928",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/gmtiRXs-EsAInhRPf8WHS4TnzNE\"",
+   "primaryEmail": "troy.alford@mycase.com",
+   "name": {
+    "givenName": "Troy ",
+    "familyName": "Alford",
+    "fullName": "Troy Alford"
+   },
+   "emails": [
+    {
+     "address": "troy.alford@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABECPCb1M2Snu22vAEiC3ZjYXJkX3Bob3RvKihhNjIxNTE1YzJhMmUyMzdiMDEzYTQ2YmIxMTI2OTBlNzc2ZGY3N2Y3MAHgKJ6xeb3eUQY3528Ps11X7RqfZg",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/VyH3wUyuMQE1XOMj5Ghk4OEzsAo\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "101681704911201927163",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/--5iCs9hGrsPTLblS5TiVTWWOH0\"",
+   "primaryEmail": "trung.do@mycase.com",
+   "name": {
+    "givenName": "Trung",
+    "familyName": "Do",
+    "fullName": "Trung Do"
+   },
+   "emails": [
+    {
+     "address": "trung.do@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCPv_4cnOtqerFyILdmNhcmRfcGhvdG8qKDI2ODQ4MDM0ZWFkNTQyMGM1MWVhOGIxNjhiY2ViMzJhMGYyM2E4YjkwAW1gkGiEzZX-mdktvipQSIhNTqtW",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/KxlgnAsUAc5DFG3CHP8x9vbbAQQ\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "110934846423916145046",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/XcCOjcYFvSHykHOOTWhBz8dmULw\"",
+   "primaryEmail": "vincent.koo@mycase.com",
+   "name": {
+    "givenName": "Vincent",
+    "familyName": "Koo",
+    "fullName": "Vincent Koo"
+   },
+   "emails": [
+    {
+     "address": "vincent.koo@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "102728647466644410115",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/F9I6BZ0YbfwXyWegbCnjoj-EioA\"",
+   "primaryEmail": "yevgeniya.kopeleva@mycase.com",
+   "name": {
+    "givenName": "Yevgeniya",
+    "familyName": "Kopeleva",
+    "fullName": "Yevgeniya Kopeleva"
+   },
+   "emails": [
+    {
+     "address": "yevgeniya.kopeleva@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "116140763151511804886",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/WwOmSwxiJ3IoPfO80qm16jfb8FY\"",
+   "primaryEmail": "yingbai.he@mycase.com",
+   "name": {
+    "givenName": "Yingbai",
+    "familyName": "He",
+    "fullName": "Yingbai He"
+   },
+   "emails": [
+    {
+     "address": "yingbai.he@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "104587894646234946133",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/OK-bPZ5eqckYkB3NwYvkYiSsFVs\"",
+   "primaryEmail": "yu.xia@mycase.com",
+   "name": {
+    "givenName": "Yu ",
+    "familyName": "Xia",
+    "fullName": "Yu Xia"
+   },
+   "emails": [
+    {
+     "address": "yu.xia@mycase.com",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "103661884803755890844",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/EkA-0G1qt3GbZXbSSmHhjVePSbA\"",
+   "primaryEmail": "zach.meyer@mycase.com",
+   "name": {
+    "givenName": "Zach",
+    "familyName": "Meyer",
+    "fullName": "Zach Meyer"
+   },
+   "emails": [
+    {
+     "address": "zach.meyer@mycase.com",
+     "primary": true
+    }
+   ],
+   "thumbnailPhotoUrl": "https://plus.google.com/_/focus/photos/private/AIbEiAIAAABDCJyxlcK9mujoMiILdmNhcmRfcGhvdG8qKDFjMThmYmUxNWZjZDU3MTczMzBiZTdiY2MzNjlmNzBkNDg2OGVhZjgwAVNS6eEpCXi5KCqBzg05JZxoFhsB",
+   "thumbnailPhotoEtag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/c57F-FPNj3hll5sbPmY0sCUodeM\""
+  },
+  {
+   "kind": "admin#directory#user",
+   "id": "111835195469100784356",
+   "etag": "\"mgY9vcMlEZ_bmlnA7zRA30B6qQw/CKaOTXSwmInDFja9dUZYbZMovLE\"",
+   "primaryEmail": "zachary.post@mycase.com",
+   "name": {
+    "givenName": "Zachary",
+    "familyName": "Post",
+    "fullName": "Zachary Post"
+   },
+   "emails": [
+    {
+     "address": "zachary.post@mycase.com",
+     "primary": true
+    }
+   ]
+  }
+ ]
+}
+
